@@ -49,17 +49,8 @@ git push -u origin main
 
 ## Скриншоты приложения
 
-### Главное окно
 ![Главное окно](screenshots/1_main_window.png)
-
-### Добавление операции
 ![Добавление операции](screenshots/2_add_transaction.png)
-
-### История операций
 ![История операций](screenshots/3_transactions_table.png)
-
-### Аналитика по категориям
 ![Аналитика](screenshots/4_analytics.png)
-
-### Текущий баланс
 ![Баланс](screenshots/5_balance.png)
